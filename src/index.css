@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.list-arabic {
+  list-style-type: none;
+  padding-right: 1.5em;
+}
+
+.list-arabic li {
+  position: relative;
+}
+
+.list-arabic li::before {
+  content: "•";
+  position: absolute;
+  right: -1.5em;
+  color: white;
+}
