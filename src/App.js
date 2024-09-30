@@ -9,7 +9,7 @@ const AdCard = ({ title, subtitle, speaker, speakerTitle, speakerDetails, lectur
       </div>
       <div className="bg-white/20 p-8 rounded-lg mb-8 shadow-lg flex flex-col md:flex-row items-center">
         <img 
-          src="/Aous_Abdo_headshot.jpeg" 
+          src={`${process.env.PUBLIC_URL}/Aous_Abdo_headshot.jpeg`}
           alt={speaker} 
           className="w-64 h-64 rounded-full object-cover mb-6 md:mb-0 md:mr-8"
         />
