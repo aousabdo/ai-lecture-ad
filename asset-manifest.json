@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-lecture-ad/static/css/main.d4ffb3a6.css",
+    "main.js": "/ai-lecture-ad/static/js/main.303b4272.js",
+    "index.html": "/ai-lecture-ad/index.html",
+    "main.d4ffb3a6.css.map": "/ai-lecture-ad/static/css/main.d4ffb3a6.css.map",
+    "main.303b4272.js.map": "/ai-lecture-ad/static/js/main.303b4272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4ffb3a6.css",
+    "static/js/main.303b4272.js"
+  ]
+}
