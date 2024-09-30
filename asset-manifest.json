@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ai-lecture-ad/static/css/main.d4ffb3a6.css",
-    "main.js": "/ai-lecture-ad/static/js/main.0604f930.js",
+    "main.css": "/ai-lecture-ad/static/css/main.81039ef7.css",
+    "main.js": "/ai-lecture-ad/static/js/main.d78eb306.js",
     "index.html": "/ai-lecture-ad/index.html",
-    "main.d4ffb3a6.css.map": "/ai-lecture-ad/static/css/main.d4ffb3a6.css.map",
-    "main.0604f930.js.map": "/ai-lecture-ad/static/js/main.0604f930.js.map"
+    "main.81039ef7.css.map": "/ai-lecture-ad/static/css/main.81039ef7.css.map",
+    "main.d78eb306.js.map": "/ai-lecture-ad/static/js/main.d78eb306.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4ffb3a6.css",
-    "static/js/main.0604f930.js"
+    "static/css/main.81039ef7.css",
+    "static/js/main.d78eb306.js"
   ]
 }
